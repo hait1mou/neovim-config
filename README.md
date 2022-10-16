@@ -1,1 +1,2 @@
-# neovim-config
+# Neo Vim Config
+Nvim configuration files
